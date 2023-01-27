@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Gabriel Vicente</h1>
 <h3 align="center">Estudiante de 4to año de Ingeniería en Ciencias de la Computación y Tecnología de la Información en la UVG.</h3>
 
+![snake gif](https://github.com/GabrielVicente-GT/GabrielVicente-GT/blob/output/github-contribution-grid-snake.gif)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielvicente-gt&show_icons=true&locale=en&layout=compact" alt="gabrielvicente-gt" /></p>
 
