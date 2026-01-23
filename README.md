@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gabriel Vicente</h1>
-<h3 align="center">Estudiante de 4to año de Ingeniería en Ciencias de la Computación y Tecnología de la Información en la UVG.</h3>
+<h3 align="center">Ingeniero en Ciencias de la Computación y Tecnología de la Información en la UVG.</h3>
 
 ![snake gif](https://github.com/GabrielVicente-GT/GabrielVicente-GT/blob/output/github-contribution-grid-snake.svg)
 
